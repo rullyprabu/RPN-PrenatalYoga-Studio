@@ -279,8 +279,8 @@ body {
 
 /*--Footer--*/
 footer {
-  position: fixed;
-  bottom: 0:
+  /*position: fixed;
+  bottom: 0:*/
   background-color: var(--primary);
   text-align: center;
   padding: 1rem 0;
